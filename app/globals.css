@@ -43,14 +43,14 @@ body {
 
 #progress {
   position: fixed;
-  top: 4px;
-  left: 4px;
+  top: 0;
+  left: 0;
   transform: rotate(-90deg);
 }
 
 circle {
   stroke-dashoffset: 0;
-  stroke-width: 15%;
+  stroke-width: 10%;
   fill: none;
 }
 
