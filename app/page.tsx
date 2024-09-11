@@ -10,7 +10,7 @@ const poppins = Poppins({
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center py-24">
+    <div className="flex flex-col items-center py-24 overflow-hidden">
       <div className="text-center text-navy">
         <div className={`${poppins.variable} font-sans font-bold text-xl`}>Sensor WebFusionX</div>
         <div className={`${poppins.variable} font-sans`}>BY HANNAH LEE</div>
