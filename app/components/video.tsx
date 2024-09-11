@@ -27,7 +27,7 @@ export default function Video() {
           style={{ pathLength: scrollYProgress }}
         />
       </svg>
-      <div className={`${poppins.variable} font-sans font-bold text-3xl absolute top-8 right-6 opacity-60`}>HL</div>
+      <div className={`${poppins.variable} font-sans font-bold text-3xl fixed top-8 right-6 opacity-60`}>HL</div>
       <ul ref={ref} className="mt-36">
         <li>
           <Image
