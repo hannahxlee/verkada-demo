@@ -11,6 +11,10 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        navy: "#0e1a42",
+      },
+      fontFamily: {
+        sans: ['var(--font-poppins)'],
       },
     },
   },
