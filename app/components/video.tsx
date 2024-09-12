@@ -31,7 +31,7 @@ export default function Video() {
       <ul ref={ref} className="mt-36">
         <li>
           <Image
-            src="/SENSOR_ANALYTICS.gif"
+            src="/SENSOR_HOME.gif"
             alt="HOME"
             width={300}
             height={651}
